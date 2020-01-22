@@ -58,7 +58,10 @@ figure {
 
 figcaption {
   background-color: rgba(0, 0, 0, .5);
-  padding: 1 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   color: #fff;
   border-radius: 10px;
   max-width: 15em;
