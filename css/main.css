@@ -22,9 +22,14 @@ body {
   margin: 0;
 }
 
-.description {
+figcaption {
   position: absolute;
-  background-color: #rgba(255, 0, 0, 0.5);
-  font: #fff;
+  background-color: rgba(0, 0, 0, .5);
+  color: #fff;
   border-radius: 10px;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
 }
